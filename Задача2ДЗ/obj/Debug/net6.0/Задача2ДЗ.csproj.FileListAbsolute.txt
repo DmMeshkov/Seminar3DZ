@@ -1,0 +1,15 @@
+B:\Git study\C#\Семинар3\Задача2ДЗ\obj\Debug\net6.0\Задача2ДЗ.csproj.AssemblyReference.cache
+B:\Git study\C#\Семинар3\Задача2ДЗ\obj\Debug\net6.0\Задача2ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git study\C#\Семинар3\Задача2ДЗ\obj\Debug\net6.0\Задача2ДЗ.AssemblyInfoInputs.cache
+B:\Git study\C#\Семинар3\Задача2ДЗ\obj\Debug\net6.0\Задача2ДЗ.AssemblyInfo.cs
+B:\Git study\C#\Семинар3\Задача2ДЗ\obj\Debug\net6.0\Задача2ДЗ.csproj.CoreCompileInputs.cache
+B:\Git study\C#\Семинар3\Задача2ДЗ\bin\Debug\net6.0\Задача2ДЗ.exe
+B:\Git study\C#\Семинар3\Задача2ДЗ\bin\Debug\net6.0\Задача2ДЗ.deps.json
+B:\Git study\C#\Семинар3\Задача2ДЗ\bin\Debug\net6.0\Задача2ДЗ.runtimeconfig.json
+B:\Git study\C#\Семинар3\Задача2ДЗ\bin\Debug\net6.0\Задача2ДЗ.dll
+B:\Git study\C#\Семинар3\Задача2ДЗ\bin\Debug\net6.0\Задача2ДЗ.pdb
+B:\Git study\C#\Семинар3\Задача2ДЗ\obj\Debug\net6.0\Задача2ДЗ.dll
+B:\Git study\C#\Семинар3\Задача2ДЗ\obj\Debug\net6.0\refint\Задача2ДЗ.dll
+B:\Git study\C#\Семинар3\Задача2ДЗ\obj\Debug\net6.0\Задача2ДЗ.pdb
+B:\Git study\C#\Семинар3\Задача2ДЗ\obj\Debug\net6.0\Задача2ДЗ.genruntimeconfig.cache
+B:\Git study\C#\Семинар3\Задача2ДЗ\obj\Debug\net6.0\ref\Задача2ДЗ.dll

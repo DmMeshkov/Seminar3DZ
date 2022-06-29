@@ -1,0 +1,15 @@
+B:\Git study\C#\Семинар3\Задача1_01\bin\Debug\net6.0\Задача1_01.exe
+B:\Git study\C#\Семинар3\Задача1_01\bin\Debug\net6.0\Задача1_01.deps.json
+B:\Git study\C#\Семинар3\Задача1_01\bin\Debug\net6.0\Задача1_01.runtimeconfig.json
+B:\Git study\C#\Семинар3\Задача1_01\bin\Debug\net6.0\Задача1_01.dll
+B:\Git study\C#\Семинар3\Задача1_01\bin\Debug\net6.0\Задача1_01.pdb
+B:\Git study\C#\Семинар3\Задача1_01\obj\Debug\net6.0\Задача1_01.csproj.AssemblyReference.cache
+B:\Git study\C#\Семинар3\Задача1_01\obj\Debug\net6.0\Задача1_01.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git study\C#\Семинар3\Задача1_01\obj\Debug\net6.0\Задача1_01.AssemblyInfoInputs.cache
+B:\Git study\C#\Семинар3\Задача1_01\obj\Debug\net6.0\Задача1_01.AssemblyInfo.cs
+B:\Git study\C#\Семинар3\Задача1_01\obj\Debug\net6.0\Задача1_01.csproj.CoreCompileInputs.cache
+B:\Git study\C#\Семинар3\Задача1_01\obj\Debug\net6.0\Задача1_01.dll
+B:\Git study\C#\Семинар3\Задача1_01\obj\Debug\net6.0\refint\Задача1_01.dll
+B:\Git study\C#\Семинар3\Задача1_01\obj\Debug\net6.0\Задача1_01.pdb
+B:\Git study\C#\Семинар3\Задача1_01\obj\Debug\net6.0\Задача1_01.genruntimeconfig.cache
+B:\Git study\C#\Семинар3\Задача1_01\obj\Debug\net6.0\ref\Задача1_01.dll
